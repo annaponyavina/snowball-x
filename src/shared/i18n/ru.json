@@ -1,0 +1,119 @@
+{
+  "app": {
+    "name": "SnowBall X",
+    "tagline": "Анализ инвестиционного портфеля"
+  },
+  "nav": {
+    "dashboard": "Главное",
+    "calendar": "Календарь выплат",
+    "investments": "Вложенные средства",
+    "goal": "Калькулятор цели",
+    "calendarShort": "Календарь",
+    "investmentsShort": "Вложения",
+    "goalShort": "Цель",
+    "collapse": "Свернуть меню",
+    "expand": "Развернуть меню"
+  },
+  "theme": {
+    "toLight": "Светлая тема",
+    "toDark": "Тёмная тема"
+  },
+  "language": {
+    "label": "Язык",
+    "ru": "Русский",
+    "en": "English"
+  },
+  "common": {
+    "loadExample": "Загрузить пример",
+    "loading": "Загрузка…",
+    "refresh": "Обновить",
+    "total": "Итого",
+    "empty": "Нет данных",
+    "emptyHint": "Нажмите «Загрузить пример», чтобы увидеть демонстрационные данные."
+  },
+  "calendar": {
+    "yearTotal": "Всего за год",
+    "yearTotalHint": "Сумма купонов за ближайшие 12 месяцев — начиная с даты следующей выплаты, а не за календарный год.",
+    "perMonth": "В месяц",
+    "perDay": "В день",
+    "yield": "Доходность",
+    "yearAhead": "На год вперёд",
+    "monthlyChart": "Выплаты по месяцам",
+    "monthlyBreakdown": "Купоны по месяцам",
+    "offers": {
+      "title": "Оферты и погашения",
+      "note": "Ближайшая дата оферты или погашения по каждому выпуску.",
+      "bond": "Облигация",
+      "nextCoupon": "Ближайший купон",
+      "maturity": "Оферта / погашение"
+    },
+    "status": {
+      "paid": "Выплачены",
+      "announced": "Объявлены",
+      "forecast": "Прогноз",
+      "principal": "Погашение и амортизация"
+    }
+  },
+  "goal": {
+    "targetTitle": "Целевой капитал",
+    "targetLabel": "Цель, ₽",
+    "calcTitle": "Калькулятор цели",
+    "monthly": "Ежемесячное пополнение, ₽",
+    "annualRate": "Процент годовых, %",
+    "term": "Срок",
+    "unitMonths": "мес.",
+    "unitYears": "лет",
+    "reinvest": "С учётом реинвестирования",
+    "result": "Итоговая сумма",
+    "contributed": "Внесено взносами",
+    "interest": "Доход",
+    "passiveMonthly": "Пассивный доход в месяц",
+    "passiveYearly": "Пассивный доход в год",
+    "reachedIn": "Цель достигается через",
+    "reachedNow": "Цель уже достигнута",
+    "notReached": "Цель не достигается за выбранный срок",
+    "yearsShort": "г.",
+    "monthsShort": "мес.",
+    "chartTitle": "Рост капитала",
+    "legendCapital": "Капитал",
+    "legendContributed": "Взносы",
+    "legendTarget": "Цель"
+  },
+  "investments": {
+    "total": "Всего вложено",
+    "note": "Ручной учёт. Не синхронизируется с активами.",
+    "addTitle": "Добавить вложение",
+    "date": "Дата",
+    "amount": "Сумма, ₽",
+    "add": "Добавить",
+    "delete": "Удалить",
+    "empty": "Пока нет записей",
+    "emptyHint": "Добавьте первое вложение вручную — оно сохранится в браузере.",
+    "errors": {
+      "dateRequired": "Укажите дату",
+      "amountPositive": "Сумма должна быть больше нуля"
+    }
+  },
+  "dashboard": {
+    "value": "Стоимость",
+    "invested": "вложено",
+    "profit": "Прибыль",
+    "perDay": "за день",
+    "return": "Доходность",
+    "assetGrowth": "рост активов",
+    "passiveIncome": "Пассивный доход",
+    "perYear": "в год",
+    "assets": "Активы",
+    "distribution": "Доли активов",
+    "hideBalance": "Скрыть суммы",
+    "showBalance": "Показать суммы",
+    "cashBalance": "Денежный остаток",
+    "cols": {
+      "name": "Название",
+      "valueInvested": "Стоимость/Вложено",
+      "income": "Доход",
+      "share": "Доля",
+      "unit": "шт."
+    }
+  }
+}

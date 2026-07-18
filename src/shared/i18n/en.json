@@ -1,0 +1,119 @@
+{
+  "app": {
+    "name": "SnowBall X",
+    "tagline": "Investment portfolio analytics"
+  },
+  "nav": {
+    "dashboard": "Overview",
+    "calendar": "Payment calendar",
+    "investments": "Invested funds",
+    "goal": "Goal calculator",
+    "calendarShort": "Calendar",
+    "investmentsShort": "Invested",
+    "goalShort": "Goal",
+    "collapse": "Collapse menu",
+    "expand": "Expand menu"
+  },
+  "theme": {
+    "toLight": "Light theme",
+    "toDark": "Dark theme"
+  },
+  "language": {
+    "label": "Language",
+    "ru": "Русский",
+    "en": "English"
+  },
+  "common": {
+    "loadExample": "Load example",
+    "loading": "Loading…",
+    "refresh": "Refresh",
+    "total": "Total",
+    "empty": "No data",
+    "emptyHint": "Click \"Load example\" to see demonstration data."
+  },
+  "calendar": {
+    "yearTotal": "Total for the year",
+    "yearTotalHint": "Sum of coupons over the next 12 months — starting from the next payment date, not a calendar year.",
+    "perMonth": "Per month",
+    "perDay": "Per day",
+    "yield": "Yield",
+    "yearAhead": "Year ahead",
+    "monthlyChart": "Payments by month",
+    "monthlyBreakdown": "Coupons by month",
+    "offers": {
+      "title": "Put offers & maturities",
+      "note": "Nearest put offer or maturity date for each issue.",
+      "bond": "Bond",
+      "nextCoupon": "Next coupon",
+      "maturity": "Offer / maturity"
+    },
+    "status": {
+      "paid": "Paid",
+      "announced": "Announced",
+      "forecast": "Forecast",
+      "principal": "Redemption & amortization"
+    }
+  },
+  "goal": {
+    "targetTitle": "Target capital",
+    "targetLabel": "Target, ₽",
+    "calcTitle": "Goal calculator",
+    "monthly": "Monthly contribution, ₽",
+    "annualRate": "Annual rate, %",
+    "term": "Term",
+    "unitMonths": "mo.",
+    "unitYears": "yr.",
+    "reinvest": "With reinvestment",
+    "result": "Final amount",
+    "contributed": "Contributed",
+    "interest": "Return",
+    "passiveMonthly": "Passive income per month",
+    "passiveYearly": "Passive income per year",
+    "reachedIn": "Goal reached in",
+    "reachedNow": "Goal already reached",
+    "notReached": "Goal is not reached within the term",
+    "yearsShort": "yr",
+    "monthsShort": "mo",
+    "chartTitle": "Capital growth",
+    "legendCapital": "Capital",
+    "legendContributed": "Contributions",
+    "legendTarget": "Target"
+  },
+  "investments": {
+    "total": "Total invested",
+    "note": "Manual entry. Not synced with assets.",
+    "addTitle": "Add investment",
+    "date": "Date",
+    "amount": "Amount, ₽",
+    "add": "Add",
+    "delete": "Delete",
+    "empty": "No records yet",
+    "emptyHint": "Add your first investment manually — it will be saved in the browser.",
+    "errors": {
+      "dateRequired": "Enter a date",
+      "amountPositive": "Amount must be greater than zero"
+    }
+  },
+  "dashboard": {
+    "value": "Value",
+    "invested": "invested",
+    "profit": "Profit",
+    "perDay": "today",
+    "return": "Return",
+    "assetGrowth": "price growth",
+    "passiveIncome": "Passive income",
+    "perYear": "per year",
+    "assets": "Assets",
+    "distribution": "Asset allocation",
+    "hideBalance": "Hide amounts",
+    "showBalance": "Show amounts",
+    "cashBalance": "Cash balance",
+    "cols": {
+      "name": "Name",
+      "valueInvested": "Value/Invested",
+      "income": "Profit",
+      "share": "Share",
+      "unit": "pcs"
+    }
+  }
+}
