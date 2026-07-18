@@ -6,6 +6,7 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
+  base: '/snowball-x/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url)),
